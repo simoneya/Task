@@ -1,0 +1,16 @@
+
+
+button {
+  background-color: white;
+  border: none;
+}
+
+
+.ui.segment:last-child {
+  background:  #77A9D7;
+}
+
+
+.ui.statistic {
+  padding-bottom: 50px;
+}
